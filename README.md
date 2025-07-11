@@ -76,15 +76,3 @@ project-root/
 ---
 
 **Thank you for reviewing my Employee Directory project!** 
-
-**Instructions:**
-1. Open your terminal and navigate to your project root directory.
-2. Copy and paste each command above, one by one.
-3. If prompted, log in to GitHub or provide a personal access token (for HTTPS push).
-
----
-
-**After running these commands, your code will be live at:**
-[https://github.com/raju-miriyala8/employee-dashboard](https://github.com/raju-miriyala8/employee-dashboard)
-
-Let me know if you hit any issues or need help with screenshots or GitHub setup! 
